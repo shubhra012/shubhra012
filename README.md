@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Shubhra Jain
-- 🎓 I’m cureently pursuing my undergrad in computer science with specialization in Artificial Intelligence.
-- 🌱 I'm a passionate and dedicated individual with a strong interest in exploring and working with new and emerging technologies.
+- 👋 Hi, I’m Shubhra Jain.
+- 🎓 I’m currently pursuing my undergrad in computer science with specialization in Artificial Intelligence.
+- 🌱 I'm a passionate and dedicated individual with a strong interest in exploring and working with new and emerging technologies!
 - 💻 I'm currently learning web development.
 
 <!---
